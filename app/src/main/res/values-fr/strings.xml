@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">In And Out</string>
+    <string name="header">Passez une commande</string>
+    <string name="double_double">Double Double 3,50€</string>
+    <string name="cheeseburger">Cheeseburger 2,15€</string>
+    <string name="french_fries">Frites 1,65€</string>
+    <string name="shakes">Shakes 2,20€</string>
+    <string name="fountain_drinks">Boissons (sélectionnez)</string>
+    <string name="small">Petite 1,45€</string>
+    <string name="medium">Moyenne 1,55€</string>
+    <string name="large">Grande 1,75€</string>
+    <string name="place_order_button">Commander</string>
+    <string name="new_order_button">Nouvelle Commande</string>
+    <string name="test_text">Test Text</string>
+    <string name="order_total">Montant Du %s</string>
+    <string name="items_ordered">Nombre d\'articles: %s</string>
+    <string name="subtotal">Avant TVA: %s</string>
+    <string name="tax">TVA (%s): %s</string>
+    <string name="no_items_toast">Votre commande est vide!</string>
+
+</resources>
